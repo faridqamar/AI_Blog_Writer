@@ -10,7 +10,7 @@ def run():
     Run the crew.
     """
 
-    topic = "Introduction to Machine Learning: Difference between Supervised and Unsupervised Learning"
+    topic = "Introduction to Machine Learning: Multivareate Regression"
 
     # Initialize the crew
     my_writer = BlogWriter()
